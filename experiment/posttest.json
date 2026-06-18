@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Oxytocin is naturally a:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Steroid hormone",
+        "b": "Peptide hormone",
+        "c": "Carbohydrate hormone",
+        "d": "Lipid hormone"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Oxytocin is not a steroid hormone.",
+        "b": "Correct. Oxytocin is a peptide hormone composed of amino acids.",
+        "c": "Incorrect. Oxytocin is not a carbohydrate hormone.",
+        "d": "Incorrect. Oxytocin is not a lipid hormone."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which solvent was used for the extraction of oxytocin from food samples?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ethanol",
+        "b": "Acetone",
+        "c": "Methanol",
+        "d": "Chloroform"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Ethanol was not used in this experiment.",
+        "b": "Incorrect. Acetone was used in the mobile phase, not for extraction.",
+        "c": "Correct. Methanol was used to extract oxytocin from the samples.",
+        "d": "Incorrect. Chloroform was not used for extraction."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The extraction of oxytocin from vegetables and fruits was performed using:",
+      "answers": {
+        "a": "Soxhlet extraction",
+        "b": "Steam distillation",
+        "c": "Cold percolation with sonication",
+        "d": "Reflux extraction"
+      },
+      "explanations": {
+        "a": "Incorrect. Soxhlet extraction was not used.",
+        "b": "Incorrect. Steam distillation is generally used for volatile compounds.",
+        "c": "Correct. Cold percolation followed by sonication was used for extraction.",
+        "d": "Incorrect. Reflux extraction was not employed."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which stationary phase was used in the HPTLC analysis?",
+      "answers": {
+        "a": "Alumina",
+        "b": "Cellulose",
+        "c": "Charcoal",
+        "d": "Silica gel 60 F254"
+      },
+      "explanations": {
+        "a": "Incorrect. Alumina was not used in this experiment.",
+        "b": "Incorrect. Cellulose was not used as the stationary phase.",
+        "c": "Incorrect. Charcoal was not used as the stationary phase.",
+        "d": "Correct. Silica gel 60 F254 coated HPTLC plates were used."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Excess consumption of oxytocin-adulterated food may cause:",
+      "answers": {
+        "a": "Headache, nausea, and abdominal pain",
+        "b": "Improved immunity",
+        "c": "Enhanced digestion",
+        "d": "Increased vitamin absorption"
+      },
+      "explanations": {
+        "a": "Correct. Excess oxytocin intake may lead to headache, nausea, abdominal pain, and drowsiness.",
+        "b": "Incorrect. Oxytocin adulteration does not improve immunity.",
+        "c": "Incorrect. Oxytocin does not enhance digestion.",
+        "d": "Incorrect. Oxytocin does not increase vitamin absorption."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
