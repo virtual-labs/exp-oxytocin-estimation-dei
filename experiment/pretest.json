@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "How many carbon chiral centers does oxytocin have?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "9",
+        "b": "10",
+        "c": "11",
+        "d": "8"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Oxytocin contains more than 9 carbon chiral centers.",
+        "b": "Incorrect. Oxytocin contains more than 10 carbon chiral centers.",
+        "c": "Correct. Oxytocin contains 11 carbon chiral centers derived from its amino acid residues.",
+        "d": "Incorrect. Oxytocin contains significantly more than 8 carbon chiral centers."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Oxytocin is a peptide of ________ amino acids.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Five",
+        "b": "Six",
+        "c": "Nine",
+        "d": "Four"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Oxytocin contains more than five amino acids.",
+        "b": "Incorrect. Oxytocin contains more than six amino acids.",
+        "c": "Correct. Oxytocin is a nonapeptide composed of nine amino acids.",
+        "d": "Incorrect. Oxytocin contains more than four amino acids."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Chemical Formula of oxytocin is",
+      "answers": {
+        "a": "C44H66N11O11S1",
+        "b": "C43H66N12O12S2",
+        "c": "C43H67N13O12S3",
+        "d": "C40H60N10O10S2"
+      },
+      "explanations": {
+        "a": "Incorrect. This is not the molecular formula of oxytocin.",
+        "b": "Correct. The molecular formula of oxytocin is C43H66N12O12S2.",
+        "c": "Incorrect. Oxytocin does not contain three sulfur atoms.",
+        "d": "Incorrect. This formula does not match oxytocin."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Oxytocin is secreted by the:",
+      "answers": {
+        "a": "adenohypophysis",
+        "b": "zona glomerulosa",
+        "c": "neurohypophysis",
+        "d": "pars intermedia"
+      },
+      "explanations": {
+        "a": "Incorrect. Adenohypophysis refers to the anterior pituitary gland.",
+        "b": "Incorrect. Zona glomerulosa is a part of the adrenal cortex.",
+        "c": "Correct. Oxytocin is released from the neurohypophysis (posterior pituitary).",
+        "d": "Incorrect. Pars intermedia is a different region of the pituitary gland."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which two hormones are released from the posterior lobe of the pituitary gland?",
+      "answers": {
+        "a": "ACTH and TSH",
+        "b": "ADH and GH",
+        "c": "ADH and oxytocin",
+        "d": "TRH and CRH"
+      },
+      "explanations": {
+        "a": "Incorrect. ACTH and TSH are secreted by the anterior pituitary.",
+        "b": "Incorrect. Growth hormone (GH) is secreted by the anterior pituitary.",
+        "c": "Correct. The posterior pituitary releases ADH (vasopressin) and oxytocin.",
+        "d": "Incorrect. TRH and CRH are hypothalamic releasing hormones."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
