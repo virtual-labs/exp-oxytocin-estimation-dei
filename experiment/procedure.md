@@ -68,30 +68,50 @@ Extraction of oxytocin from different market available vegetables, fruits and mi
 
 Pre-coated silica gel HPTLC plates (60 F254) were used for the analysis of oxytocin content in different edible samples. The chromatographic profile of the sample was normal (well shaped), showing oxytocin as the main component (Fig. 4). Peak of oxytocin was identified using the solvent system as Methanol: Ammonia (pH 6.8) and there was no overlap with any other analyses of the sample. The chromatogram of oxytocin shown in fig. confirmed that standard oxytocin taken for study is pure.
 
-![Project Screenshot](images/Observation_7_img1.jpg)
 
-Chromatographic Profile of Standard Oxytocin
+<div align="center">
+    <img src="images/Observation_7_img1.jpg" alt="Chromatographic Profile of Standard Oxytocin" width="600">
+    <br>
+    <b>Fig. 1: Chromatographic Profile of Standard Oxytocin</b>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="images/Observation_7_img2.jpg" alt="3D View of Oxytocin Analysis" width="600">
+    <br>
+    <b>Fig. 2: 3D View of Oxytocin Analysis</b>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="images/Observation_7_img3.jpg" alt="Linearity Curve for Oxytocin" width="600">
+    <br>
+    <b>Fig. 3: Linearity Curve for Oxytocin</b>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="images/Observation_7_img4.jpg" alt="Image of the Plate for Accuracy at 254nm" width="600">
+    <br>
+    <b>Fig. 4: Image of the Plate for Accuracy at 254 nm</b>
+  <br>
+   <b>Table 1: Oxytocin Levels in Samples</b>
+</div>
 
 
-![Project Screenshot](images/Observation_7_img2.jpg)
 
-3D view of Oxytocin Analysis
-
-
-![Project Screenshot](images/Observation_7_img3.jpg)
-
-Linearity Curve for Oxytocin
-
-
-![Project Screenshot](images/Observation_7_img4.jpg)
-
-Image of the plate for Accuracy at 254nm
-Table: Oxytocin Levels in Samples
 
 #### Linearity curve for oxytocin
 Bands of oxytocin were separated well on HPTLC silica plates by using solvent system Methanol: Ammonia (pH 6.8). Oxytocin peaks were identified and showed Rf value of 0.71 ± 0.02. Oxytocin content in vegetables, fruits and milk was found to be in the range of 11.82-15.05 ng/spot selected for study (Table 5). Linearity for oxytocin was studied by taking concentrations 5ng to 25ng.
 
-![Project Screenshot](images/Observation_7_img5.jpg)
+
+<div align="center">
+  <img src="images/Observation_7_img5.jpg" alt="Theory Image" width="600">
+</div>
+
 
 
 
