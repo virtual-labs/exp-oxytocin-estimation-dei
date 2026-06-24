@@ -15,8 +15,7 @@
         "c": "Incorrect. Oxytocin is not a carbohydrate hormone.",
         "d": "Incorrect. Oxytocin is not a lipid hormone."
       },
-      "correctAnswer": "b",
-    
+      "correctAnswer": "b"
     },
     {
       "question": "2. Which solvent was used for the extraction of oxytocin from food samples?",
@@ -32,8 +31,7 @@
         "c": "Correct. Methanol was used to extract oxytocin from the samples.",
         "d": "Incorrect. Chloroform was not used for extraction."
       },
-      "correctAnswer": "c",
-   
+      "correctAnswer": "c"
     },
     {
       "question": "3. The extraction of oxytocin from vegetables and fruits was performed using-",
@@ -49,8 +47,7 @@
         "c": "Correct. Cold percolation followed by sonication was used for extraction.",
         "d": "Incorrect. Reflux extraction was not employed."
       },
-      "correctAnswer": "c",
-     
+      "correctAnswer": "c"
     },
     {
       "question": "4. Which stationary phase was used in the HPTLC analysis?",
@@ -66,8 +63,7 @@
         "c": "Incorrect. Charcoal was not used as the stationary phase.",
         "d": "Correct. Silica gel 60 F254 coated HPTLC plates were used."
       },
-      "correctAnswer": "d",
-   
+      "correctAnswer": "d"
     },
     {
       "question": "5. Excess consumption of oxytocin-adulterated food may cause-",
@@ -83,8 +79,7 @@
         "c": "Incorrect. Oxytocin does not enhance digestion.",
         "d": "Incorrect. Oxytocin does not increase vitamin absorption."
       },
-      "correctAnswer": "a",
-      
+      "correctAnswer": "a"
     }
   ]
 }
