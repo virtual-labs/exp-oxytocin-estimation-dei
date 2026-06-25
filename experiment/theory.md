@@ -14,7 +14,7 @@ Food is the mixture of various essential substances. The best food is hygienic, 
 
 
 <div align="center">
-  <img src="images/experiment_7_img1.jpg" alt="Theory Image" width="600">
+  <img src="images/experiment_7_img1.jpg" alt="Theory Image" width="200">
   <p>Figure 1: structure of oxytocin</p>
 </div>
 
